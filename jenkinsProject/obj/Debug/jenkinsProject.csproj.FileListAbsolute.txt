@@ -1,0 +1,6 @@
+c:\users\abhay\documents\visual studio 2015\Projects\jenkinsProject\jenkinsProject\bin\jenkinsProject.dll.config
+c:\users\abhay\documents\visual studio 2015\Projects\jenkinsProject\jenkinsProject\bin\jenkinsProject.dll
+c:\users\abhay\documents\visual studio 2015\Projects\jenkinsProject\jenkinsProject\bin\jenkinsProject.pdb
+c:\users\abhay\documents\visual studio 2015\Projects\jenkinsProject\jenkinsProject\obj\Debug\jenkinsProject.csprojResolveAssemblyReference.cache
+c:\users\abhay\documents\visual studio 2015\Projects\jenkinsProject\jenkinsProject\obj\Debug\jenkinsProject.dll
+c:\users\abhay\documents\visual studio 2015\Projects\jenkinsProject\jenkinsProject\obj\Debug\jenkinsProject.pdb
